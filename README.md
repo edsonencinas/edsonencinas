@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Edson!
 A cybersecurity enthusiast, life-ling learner and a problem solver. I love travelling and listening to HiRes music. 
 
-## Certifications:
+## 📄 Certifications:
 - CompTIA Security+
 - ISC2 Certified in Cybersecurity
 <!--
