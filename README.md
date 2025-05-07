@@ -4,6 +4,7 @@ A cybersecurity enthusiast, life-ling learner and a problem solver. I love trave
 ## 📄 Certifications:
 - CompTIA Security+
 - ISC2 Certified in Cybersecurity
+[I'm an inline-style link](https://www.google.com)
 <!--
 **edsonencinas/edsonencinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
