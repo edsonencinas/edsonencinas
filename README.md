@@ -2,9 +2,9 @@
 A cybersecurity enthusiast, life-ling learner and a problem solver. I love travelling and listening to HiRes music. 
 
 ## 📄 Certifications:
-- CompTIA Security+
+- [CompTIA Security+](https://www.credly.com/badges/4a04fe80-6671-4270-aec5-ba9f4476572d/public_url)
 - ISC2 Certified in Cybersecurity
-[I'm an inline-style link](https://www.google.com)
+
 <!--
 **edsonencinas/edsonencinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
