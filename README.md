@@ -1,6 +1,9 @@
 ## Hi there 👋 I'm Edson!
 A cybersecurity enthusiast, life-long learner and a problem solver. I love travelling and listening to HiRes music. 
 
+## 👨🏾‍💻 Cybersecurity Courseworks/Projects:
+- [Building Your Cybersecurity Homelab Project: Setting Up Wazuh Open-Source SIEM in Azure](https://github.com/edsonencinas/WazuhLab.git)
+
 ## 👨🏾‍💻 Tutorials:
 - [Transform Your Old Laptop into Hi-Res Music Player with Daphile for Free!](https://github.com/edsonencinas/daphile.git)
 
