@@ -3,6 +3,7 @@ A cybersecurity enthusiast, life-long learner and a problem solver. I love trave
 
 ## 👨🏾‍💻 Cybersecurity Courseworks/Projects:
 - [Building Your Cybersecurity Homelab Project: Setting Up Wazuh Open-Source SIEM in Azure](https://github.com/edsonencinas/WazuhLab.git)
+- [How to Install and Configure Snort and Open-source IPS/IDS](https://github.com/edsonencinas/SnortGuide.git)
 
 ## 👨🏾‍💻 Tutorials:
 - [Transform Your Old Laptop into Hi-Res Music Player with Daphile for Free!](https://github.com/edsonencinas/daphile.git)
