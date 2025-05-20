@@ -8,6 +8,9 @@ A cybersecurity enthusiast, life-long learner and a problem solver. I love trave
 ## 👨🏾‍💻 Tutorials:
 - [Transform Your Old Laptop into Hi-Res Music Player with Daphile for Free!](https://github.com/edsonencinas/daphile.git)
 
+## 👨🏾‍💻 Blogs:
+- [Transform Your Old Laptop into Hi-Res Music Player with Daphile for Free!](https://github.com/edsonencinas/daphile.git)
+  
 ## 📄 Certifications:
 - [CompTIA Security+](https://www.credly.com/badges/4a04fe80-6671-4270-aec5-ba9f4476572d/public_url)
 - [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/5c9f868c-fa9e-4122-9be7-4fc6f59f9eed/public_url)
